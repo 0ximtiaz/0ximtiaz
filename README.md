@@ -56,14 +56,10 @@ I love blending **data + tech + security** to create intelligent, reliable, and 
 
 ## 🌍 Connect With Me
 📧 **Email:** 0ximtiaz@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/0ximtiaz)  
-🐙 **GitHub:** [github.com/your-username](https://github.com/0ximtiaz)
+🔗 **LinkedIn:** [linkedin.com/in/0ximtiaz](https://linkedin.com/in/0ximtiaz)  
+🐙 **GitHub:** [github.com/0ximtiaz](https://github.com/0ximtiaz)
 
 ---
-
-> “Numbers tell a story — I make sure it’s one that drives better business decisions.”  
-
-<hr>
 
 ### Projects and Dev Stuffs:
 
