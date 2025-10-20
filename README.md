@@ -24,7 +24,7 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/0ximtiaz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mehediislamripon/mehediislamripon/main/img/MehediIslamRipon.gif" />
 
 ### Talking about Personal Stuff:
 
@@ -74,13 +74,12 @@ Like My Work?
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+  	    <li><b>OS:</b> Windows 11, Linux (Ubuntu)</li>
+	    <li><b>Laptop: </b> Acer (i5 12th)</li>
+  	    <li><b>Browser: </b> Brave and Chrome</li>
+	    <li><b>Terminal: </b> Hyper, Windows Terminal, ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+	    <li><b>To Stay Updated:</b> Twitter, Medium and Linkedin</li>
 	</ul>
 </details>
 
