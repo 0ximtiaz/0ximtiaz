@@ -32,7 +32,6 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 💬 &nbsp; Ask me anything [here](http://m.me/0ximtiaz)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: 0ximtiaz@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://#).
 
