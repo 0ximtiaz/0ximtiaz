@@ -7,59 +7,67 @@
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0ximtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
-**Business Analytics | Web Developer | Cybersecurity Researcher**
-Location: Bangladesh (Willing to relocate to Australia) • Email: your.email@example.com • Phone: +8801XXXXXXXXX
-LinkedIn: linkedin.com/in/yourprofile • GitHub: github.com/your-username
 
+# 👋 Hi, I'm Imtiaz  
+🎯 **Business Analytics Enthusiast | Data-Driven Problem Solver | Tech-Savvy Analyst**  
+💡 Passionate about turning data into actionable insights and smarter business decisions.
 
 ---
 
+## 🚀 About Me
+I'm a **Business Analytics professional** with a strong foundation in **data analysis, dashboarding, and business strategy** —  
+plus hands-on experience in **Web Development** and **Cybersecurity Research**.  
+I love blending **data + tech + security** to create intelligent, reliable, and insight-driven digital solutions.
 
-## Professional Summary
-Business Analytics professional with strong web development and cybersecurity research background. Experienced in building actionable dashboards, predictive models, and secure web applications. Seeking analytics roles in Australia where I can deliver data-driven decisions and secure product improvements.
+- 📊 Skilled in Power BI, Excel, Python, SQL  
+- 🌐 Web Developer (React + Node.js + REST APIs)  
+- 🔐 Cybersecurity Enthusiast — familiar with OWASP, Burp Suite, and secure coding  
+- 🇦🇺 Aiming for **Business Analytics roles in Australia**  
+
+---
+
+## 🧩 Core Competencies
+| Category | Tools / Skills |
+|-----------|----------------|
+| **Data Analytics & BI** | Power BI, Tableau, Excel, SQL, Python (pandas, matplotlib) |
+| **Data Modelling & ML** | Scikit-learn, Statsmodels, Regression & Classification |
+| **Business Strategy** | KPI design, Forecasting, Customer Segmentation |
+| **Web Development (Add-on)** | HTML, CSS, JavaScript, React, Node.js |
+| **Cybersecurity Awareness** | OWASP Top 10, Burp Suite, Nmap, Secure Coding |
+| **Soft Skills** | Data storytelling, Critical thinking, Communication |
+
+---
+
+## 🧰 Highlight Projects
+- 📈 **Sales Analytics Dashboard** — Power BI dashboard with insights on trends & profitability.  
+- 🤖 **Customer Churn Prediction (Python)** — Built a predictive model and business recommendations.  
+- 🌐 **Secure Web App (React + Node.js)** — Includes analytics tracking & security audit.  
+- 🔍 **Threat Log Analyzer** — Analyzed logs for anomalies and visualized risks in Power BI.
+
+🗂️ See all in my [Projects Repository](https://github.com/your-username?tab=repositories)
+
+---
+
+## 🎓 Education & Certifications
+🎓 **Master’s in Business Analytics (Planned – Australia)**  
+💻 **BSc in Computer Science** — with focus on Data & Security  
+📜 **Certifications (Recommended):**  
+- Microsoft Certified: Data Analyst (Power BI)  
+- Google Data Analytics Certificate  
+- CEH (Certified Ethical Hacker) — optional technical plus point  
+
+---
+
+## 🌍 Connect With Me
+📧 **Email:** your.email@example.com  
+🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🐙 **GitHub:** [github.com/your-username](https://github.com/your-username)
+
+---
+
+> “Numbers tell a story — I make sure it’s one that drives better business decisions.”  
 
 
-## Skills
-- Analytics: Power BI, Tableau, Excel (Advanced), SQL, Python (pandas, scikit-learn)
-- Web Development: React, Node.js, REST APIs, Docker
-- Cybersecurity: OWASP Top-10, Burp Suite, Nmap, penetration testing methodology
-- Communication: Data storytelling, stakeholder presentations, technical report writing
-
-
-## Experience
-**Freelance Data Analyst & Web Developer** — Self-employed (2022 – Present)
-- Built interactive Power BI dashboards for retail clients; improved reporting time by 60%.
-- Implemented full-stack applications and integrated analytics pipelines.
-- Performed security assessments on client apps and remediated critical OWASP issues.
-
-
-**Cybersecurity Research Projects** — Personal Projects (2021 – Present)
-- Conducted pentesting exercises on lab environments and produced detailed remediation reports.
-- Authored 3 vulnerability write-ups and PoCs (links in portfolio).
-
-
-## Selected Projects
-- **Sales Analytics Dashboard** — Power BI + SQL. (github.com/your-username/01_sales-analytics)
-- **Customer Churn Prediction** — Python (github.com/your-username/02_customer-churn)
-- **Secure Web App + Pentest Report** — (github.com/your-username/03_secure-webapp)
-
-
-## Education
-BSc. in Computer Science — [University Name], Bangladesh — [Year]
-
-
-## Certifications & Training
-- Microsoft Certified: Data Analyst Associate (Power BI) — _if obtained_
-- Certified Ethical Hacker (CEH) — _if obtained_
-- Google Data Analytics Professional Certificate — _if obtained_
-
-
-## Additional
-- Availability: Immediate / After visa
-- Languages: English (Professional), Bengali (Native)
-
-
-**References available upon request**
 <hr>
 
 Like My Work?
