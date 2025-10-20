@@ -1,14 +1,9 @@
-## Hey there 👋, I'm [Imtiaz!](https://github.com/0ximtiaz/)
-
+# 👋 Hi, I'm Imtiaz  
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/0ximtiaz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/0ximtiaz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/0ximtiaz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-e4405f?style=flat-square&logo=Gmail&logoColor=white)](mailto:0ximtiaz@gmail.com)
 
-### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0ximtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
-
-# 👋 Hi, I'm Imtiaz  
 🎯 **Business Analytics Enthusiast | Data-Driven Problem Solver | Tech-Savvy Analyst**  
 💡 Passionate about turning data into actionable insights and smarter business decisions.
 
