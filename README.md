@@ -7,18 +7,59 @@
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0ximtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+**Business Analytics | Web Developer | Cybersecurity Researcher**
+Location: Bangladesh (Willing to relocate to Australia) • Email: your.email@example.com • Phone: +8801XXXXXXXXX
+LinkedIn: linkedin.com/in/yourprofile • GitHub: github.com/your-username
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+---
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **7** years ago.
+## Professional Summary
+Business Analytics professional with strong web development and cybersecurity research background. Experienced in building actionable dashboards, predictive models, and secure web applications. Seeking analytics roles in Australia where I can deliver data-driven decisions and secure product improvements.
 
-Since then I pushed **3559**+ commits, opened **229**+ issues, submitted **593**+ pull requests, created **20**+ gists and contributed to **6**+ public repositories.
 
+## Skills
+- Analytics: Power BI, Tableau, Excel (Advanced), SQL, Python (pandas, scikit-learn)
+- Web Development: React, Node.js, REST APIs, Docker
+- Cybersecurity: OWASP Top-10, Burp Suite, Nmap, penetration testing methodology
+- Communication: Data storytelling, stakeholder presentations, technical report writing
+
+
+## Experience
+**Freelance Data Analyst & Web Developer** — Self-employed (2022 – Present)
+- Built interactive Power BI dashboards for retail clients; improved reporting time by 60%.
+- Implemented full-stack applications and integrated analytics pipelines.
+- Performed security assessments on client apps and remediated critical OWASP issues.
+
+
+**Cybersecurity Research Projects** — Personal Projects (2021 – Present)
+- Conducted pentesting exercises on lab environments and produced detailed remediation reports.
+- Authored 3 vulnerability write-ups and PoCs (links in portfolio).
+
+
+## Selected Projects
+- **Sales Analytics Dashboard** — Power BI + SQL. (github.com/your-username/01_sales-analytics)
+- **Customer Churn Prediction** — Python (github.com/your-username/02_customer-churn)
+- **Secure Web App + Pentest Report** — (github.com/your-username/03_secure-webapp)
+
+
+## Education
+BSc. in Computer Science — [University Name], Bangladesh — [Year]
+
+
+## Certifications & Training
+- Microsoft Certified: Data Analyst Associate (Power BI) — _if obtained_
+- Certified Ethical Hacker (CEH) — _if obtained_
+- Google Data Analytics Professional Certificate — _if obtained_
+
+
+## Additional
+- Availability: Immediate / After visa
+- Languages: English (Professional), Bengali (Native)
+
+
+**References available upon request**
 <hr>
 
 Like My Work?
