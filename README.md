@@ -46,7 +46,7 @@ I love blending **data + tech + security** to create intelligent, reliable, and 
 ## 🎓 Education & Certifications
 🎓 **Master’s in Business Analytics**  
 💻 **Bachelor of Business Administration (BBA)**   
-📜 **Certifications:**  
+📜 *Certifications:*  
 - Microsoft Certified: Data Analyst (Power BI)  
 - Google Data Analytics Certificate  
 - CEH (Certified Ethical Hacker)
