@@ -17,7 +17,7 @@ I love blending **data + tech + security** to create intelligent, reliable, and 
 - 📊 Skilled in Power BI, Excel, Python, SQL  
 - 🌐 Web Developer (React + Node.js + REST APIs)  
 - 🔐 Cybersecurity Enthusiast — familiar with OWASP, Burp Suite, and secure coding  
-- 🇦🇺 Aiming for **Business Analytics roles in Australia**  
+- 🛠 Passionate with problem solving and daily routines automation.
 
 ---
 
@@ -44,19 +44,19 @@ I love blending **data + tech + security** to create intelligent, reliable, and 
 ---
 
 ## 🎓 Education & Certifications
-🎓 **Master’s in Business Analytics (Planned – Australia)**  
-💻 **BSc in Computer Science** — with focus on Data & Security  
-📜 **Certifications (Recommended):**  
+🎓 **Master’s in Business Analytics**  
+💻 **Bachelor of Business Administration (BBA)**
+📜 **Certifications:**  
 - Microsoft Certified: Data Analyst (Power BI)  
 - Google Data Analytics Certificate  
-- CEH (Certified Ethical Hacker) — optional technical plus point  
+- CEH (Certified Ethical Hacker)
 
 ---
 
 ## 🌍 Connect With Me
-📧 **Email:** your.email@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐙 **GitHub:** [github.com/your-username](https://github.com/your-username)
+📧 **Email:** 0ximtiaz@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/0ximtiaz)  
+🐙 **GitHub:** [github.com/your-username](https://github.com/0ximtiaz)
 
 ---
 
