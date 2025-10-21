@@ -45,7 +45,7 @@ I love blending **data + tech + security** to create intelligent, reliable, and 
 
 ## 🎓 Education & Certifications
 🎓 **Master’s in Business Analytics**  
-💻 **Bachelor of Business Administration (BBA)**   
+🎓 **Bachelor of Business Administration (BBA)**   
 <br/>
 📜 *Certifications:*  
 - Microsoft Certified: Data Analyst (Power BI)  
