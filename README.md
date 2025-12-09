@@ -21,39 +21,42 @@ Outside of tech, I’m into anime, gaming, and everything that sparks creativity
 - 📫 How to reach me [Facebook](https://www.facebook.com/0ximtiaz)
 - 😄 Fun fact: I love to attend Meetups for learning & Conferences for Networking.
 
-### 💻 Programming Languages
-<p>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
- 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-</p>
+### 🛠 &nbsp;Tech Stack
 
-### 🔧 Software, Technologies & tools
-<p>
-	<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
-    	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
-    	<a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter%20NoteBook-F37626.svg?logo=Jupyter&logoColor=white"></a>
-	<a href="#"><img alt="Tech-ComputerVision" src="https://img.shields.io/badge/Computer%20Vision-3DDC84?logo=teradata&logoColor=white"></a>
-	<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
-    	<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>	
-	<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2b%2b&logoColor=black"></a>	
-	<a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
-	<a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
-	<a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white"></a>
-</p>
+__Languages__ <br>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+<br> __Databases__ <br>
+![PostgeSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+<br> __Version Control__ <br>
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+<br> __IDE__ <br>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Pycharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
+![Anaconda](https://img.shields.io/badge/-Conda-05122A?style=flat&logo=anaconda)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide)
+![Sublime](https://img.shields.io/badge/Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=important)
+<br> __Cloud Platforms__ <br>
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)
+<br> __Data Analytics__ <br>
+![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=Power%20BI)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)
+<br> __Frameworks__ <br>
+![Jupiter](https://img.shields.io/badge/-Jupyter-05122A?&style=flat&logo=Jupyter)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![ShellScript](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-### ⚡ Github Stats:
+
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=0ximtiaz&show_icons=true&hide_border=true&theme=tokyonight" alt="mehediislamripon's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0ximtiaz&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="0ximtiaz's stats"/>
+<a href="https://github.com/0ximtiaz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0ximtiaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0ximtiaz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
-
