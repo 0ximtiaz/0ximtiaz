@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Imtiaz Ahammed
-
+## Hey!, I'm [Imtiaz Ahammed!](https://github.com/0ximtiaz/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/0ximtiaz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/0ximtiaz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/0ximtiaz/)
@@ -13,7 +12,7 @@ Alongside my own journey, I genuinely enjoy **helping and mentoring beginners** 
 
 Outside of tech, I’m into anime, gaming, and everything that sparks creativity. I once dreamed of becoming a gamer, but life introduced me to the world of hacking — something I wasn’t interested in at first, but eventually grew to love deeply. Now, cybersecurity isn’t just a skill for me; it’s a passion I continue to nurture every day :heart:.
 
-### ⚡️ A Few Quick Facts
+### ⚡️ About Personal Stuffs
 - 🔭 I’m currently working on **hackerone.**
 - 🌱 I’m currently learning **security** and **cloud** stuff.
 - 🛠 Passionate with problem solving and daily routines automation.
