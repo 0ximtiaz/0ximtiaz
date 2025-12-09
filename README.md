@@ -24,7 +24,7 @@ Outside of tech, I’m into anime, gaming, and everything that sparks creativity
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0ximtiaz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0ximtiaz&layout=compact&langs_count=8&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0ximtiaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0ximtiaz&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
