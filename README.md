@@ -21,4 +21,10 @@ Outside of tech, I’m into anime, gaming, and everything that sparks creativity
 - 📫 How to reach me [Facebook](https://www.facebook.com/0ximtiaz)
 - 😄 Fun fact: I love to attend Meetups for learning & Conferences for Networking.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=0ximtiaz&theme=dark)](https://git.io/streak-stats)
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
