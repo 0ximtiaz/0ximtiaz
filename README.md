@@ -7,7 +7,7 @@
 
 **I’m a 24-year-old Security Researcher & Bug Bounty Hunter** with a strong passion for learning, exploring, and building. I’m deeply enthusiastic about **cybersecurity** and love diving into new technologies, breaking things to understand how they work, and securing them again 🔧🛡️.
 
-I enjoy working across different domains — from **automation** to **web technologies** — and I’m always driven by curiosity and real-life problem solving. I frequently create Bash scripts and custom tools to automate tasks and boost productivity.
+I enjoy working across different domains — from **automation** ⚙️ to **web technologies** 🌐 — and I’m always driven by **curiosity** and **real-life problem solving** 💡. I frequently create **Bash scripts** 📝 and custom tools 🛠️ to automate tasks and boost productivity 🚀.
 
 Alongside my own journey, I genuinely enjoy helping and mentoring beginners who are stepping into the world of cybersecurity.
 
