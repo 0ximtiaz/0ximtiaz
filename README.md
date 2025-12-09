@@ -21,10 +21,10 @@ Outside of tech, I’m into anime, gaming, and everything that sparks creativity
 - 📫 How to reach me [Facebook](https://www.facebook.com/0ximtiaz)
 - 😄 Fun fact: I love to attend Meetups for learning & Conferences for Networking.
 
-### ⚙️ &nbsp;GitHub Analytics
+## 🔥 Streak Stats
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0ximtiaz&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0ximtiaz&layout=compact&langs_count=8&theme=github_dark_dimmed"/>
-</a>
+	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="0ximtiaz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0ximtiaz&theme=monokai-metallian&hide_border=true"/></a>
+<p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
