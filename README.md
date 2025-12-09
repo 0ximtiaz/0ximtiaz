@@ -21,7 +21,6 @@ Outside of tech, I’m into anime, gaming, and everything that sparks creativity
 - 📫 How to reach me [Facebook](https://www.facebook.com/0ximtiaz)
 - 😄 Fun fact: I love to attend Meetups for learning & Conferences for Networking.
 
----
 ### 💻 Programming Languages
 <p>
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
@@ -36,8 +35,8 @@ Outside of tech, I’m into anime, gaming, and everything that sparks creativity
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 </p>
----
-### 🔧 Software, Technologies and tools
+
+### 🔧 Software, Technologies & tools
 <p>
 	<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
     	<a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-0000CC?logo=pycharm&logoColor=white"></a>
@@ -61,12 +60,6 @@ Outside of tech, I’m into anime, gaming, and everything that sparks creativity
 	<a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
 	<a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white"></a>
 </p>
----
 
-## 🔥 Streak Stats
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thenomaniqbal&theme=monokai-metallian&hide_border=true"/></a>
-<p align="center"> If you can dream it, you can do it🔥 </p>
-</p>
+
+
