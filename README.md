@@ -21,5 +21,47 @@ Outside of tech, I’m into anime, gaming, and everything that sparks creativity
 - 📫 How to reach me [Facebook](https://www.facebook.com/0ximtiaz)
 - 😄 Fun fact: I love to attend Meetups for learning & Conferences for Networking.
 
-### ⚙️ &nbsp;GitHub Analytics
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=0ximtiaz&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
+ <!--More Stats-->
+
+ 
+
+<details open align="center">
+  <summary>📈 More Stats</summary>
+  <br>
+ <!--
+<p align="center">
+<a href="https://github.com/walidbosso"> 
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
+</a></p> -->
+
+<p align="center">
+<div align="center">
+ <a href="https://github.com/0ximtiaz"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0ximtiaz&theme=algolia" width="100%" /> </br></br>
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0ximtiaz&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0ximtiaz&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0ximtiaz&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+<a href="https://github.com/0ximtiaz"> 
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
+  </a> 
+  
+<!--  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso) -->
+
+</br>
+<a href="https://github.com/0ximtiaz">
+<img align="center"  width="100%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_01102D/columns_8/maxflags_250/viewers_++Unique+Views+Per+Country+since+25+Mai+2025/labels_1/page_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=0ximtiaz&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/0ximtiaz) </br>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0ximtiaz&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/0ximtiaz) 
+</div>
+
+
+ <div align="center">
+</p >
+
+</details>
+
