@@ -48,16 +48,7 @@ Outside of tech, I’m into anime, gaming, and everything that sparks creativity
 <a href="https://github.com/0ximtiaz"> 
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
   </a> 
-  
-<!--  [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=walidbosso&theme=algolia&card_width=1000)](https://github.com/walidbosso) -->
-
-</br>
-<a href="https://github.com/0ximtiaz">
-<img align="center"  width="100%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_01102D/columns_8/maxflags_250/viewers_++Unique+Views+Per+Country+since+25+Mai+2025/labels_1/page_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=0ximtiaz&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/0ximtiaz) </br>
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0ximtiaz&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/0ximtiaz) 
-</div>
+  </div>
 
 
  <div align="center">
