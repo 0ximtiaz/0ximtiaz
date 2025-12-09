@@ -20,3 +20,5 @@ Outside of tech, I’m into anime, gaming, and everything that sparks creativity
 - 💬 Ask me about anything, i am happy to help.
 - 📫 How to reach me [Facebook](https://www.facebook.com/0ximtiaz)
 - 😄 Fun fact: I love to attend Meetups for learning & Conferences for Networking.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=0ximtiaz&theme=highcontrast)](https://git.io/streak-stats)
